@@ -7,3 +7,6 @@ EmoCare is an interactive chatbot developed in Python designed to provide emotio
 - **Emotional Support**: Provides customized responses and coping strategies based on user input.
 - **Mood Logging**: Allows users to log their moods and perform daily check-ins for self-reflection.
 - **Data Storage**: Utilizes JSON for efficient data management and user experience enhancement.
+
+## Output
+![Output Image](images/output.png)
