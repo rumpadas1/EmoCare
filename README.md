@@ -9,4 +9,5 @@ EmoCare is an interactive chatbot developed in Python designed to provide emotio
 - **Data Storage**: Utilizes JSON for efficient data management and user experience enhancement.
 
 ## Output
-![Output Image]([images/output.png](https://github.com/rumpadas1/EmoCare/blob/main/Screenshot%20(376).png))
+![Output Image](https://github.com/rumpadas1/EmoCare/blob/main/Screenshot%20(376).png)
+
